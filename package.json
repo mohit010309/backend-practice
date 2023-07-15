@@ -1,0 +1,15 @@
+{
+  "name": "back_end_development",
+  "version": "1.0.0",
+  "description": "This is sample folders",
+  "main": "app2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohit Akhouri",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}

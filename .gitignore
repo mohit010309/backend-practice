@@ -8,3 +8,5 @@ node-practice
 todolist-v1
 WeatherProject
 blog-website
+# Local Netlify folder
+.netlify
